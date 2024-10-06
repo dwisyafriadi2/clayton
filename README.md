@@ -2,7 +2,7 @@
 
 Auto Clear Task ✅  
 Auto Playing Game ✅
--Auto Daily Checkin Game ✅
+Auto Daily Checkin Game ✅
 
 
 ## Join Game
